@@ -1,32 +1,15 @@
-# OpenSees Source Code Repository
+# BoucWenLRB Source Code Repository
 
-This git repository contains all revisions to OpenSees source code since Version 2.3.2.
+A modified version of the Bouc-Wen model for simulating Lead Rubber Bearings (LRB) in OpenSees. This repository contains the source code for a custom LRB element, designed to capture nonlinear behavior under dynamic loading conditions.
 
-Older revisions of the code are available upon request.
+## Authors
 
-If you plan on collaborating or even using OpenSees as your base code it is highly recommended that
-you FORK this repo to your own account and work on it there. We will not allow anybody to write to
-this repo. Only PULL requests will be considered. To fork the repo click on the FORK at the top of this page.
+- Yuhang Lu  
+  Sichuan University, Chengdu, China  
+  Email: ll05734823@gmail.com  
+- Peng Chen  
+  Sichuan University, Chengdu, China  
+- Bin Wang  
+  Sichuan University, Chengdu, China
 
-For a brief outline on forking we suggest:
-https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow
-
-For a brief introduction to using your new FORK we suggest:
-https://www.atlassian.com/git/tutorials/saving-changes
-
-## Documentation
-The documentation for OpenSees is being moved to a parellel github repo:
-https://github.com/OpenSees/OpenSeesDocumentation
-
-The documentation (in its present form) can be viewed in the browser using the following url:
-https://OpenSees.github.io/OpenSeesDocumentation
-
-## Build Instructions
-Steps to build OpenSees on Windows, Linux, and Mac:
-https://opensees.github.io/OpenSeesDocumentation/developer/build.html
-
-## Modeling Questions
-Issues related to modeling questions will be closed. Instead, post your modeling questions on the OpenSees 
-message board or in the OpenSees Facebook group.
-+ https://opensees.berkeley.edu/community
-+ https://facebook.com/groups/opensees
+## Usage Instructions (TODO)
